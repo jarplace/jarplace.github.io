@@ -424,7 +424,7 @@
               token: function(token) {
                 // You can access the token ID with `token.id`.
                 // Get the token ID to your server-side code for use.
-                $.get('https://repo.jar.place:3333/subscribe/' + plan + '?email=' + token.email + '&stripeToken=' + token.id, function(data) {
+                $.get('https://repo.jar.place:3333/billing/subscribe/' + plan + '?email=' + token.email + '&stripeToken=' + token.id, function(data) {
                   console.debug('Success');
                 });
               }
