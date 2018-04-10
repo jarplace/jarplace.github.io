@@ -423,7 +423,7 @@
               locale: 'auto',
               token: function(token) {
                 $.ajax({
-                  url: 'https://repo.jar.place:3333/billing/subscribe/' + plan + '?email=' + token.email + '&stripeToken=' + token.id,
+                  url: 'https://repo.jar.place:3333/billing/' + plan + '?email=' + token.email + '&stripeToken=' + token.id,
                   type: 'PUT',
                   success: function(result) {
                     console.debug('Success');
