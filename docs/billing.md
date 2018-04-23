@@ -1,6 +1,6 @@
 # jarplace billing list
 
-Execute `jarplace billing list` to display all currently available plans (just like at the https://jarp.lace page).
+Execute `jarplace billing list` to display all currently available plans (just like at the [https://jar.place](https://jar.place) page).
 
 # jarplace billing plan
 
