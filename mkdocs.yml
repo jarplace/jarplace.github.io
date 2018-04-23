@@ -1,1 +1,6 @@
-site_name: Marshmallow Generator
+site_name: JarPlace
+pages:
+    - 'Installation': 'index.md'
+    - 'Sign Up': 'signup.md'
+    - 'Log In': 'login.md'
+    - 'Billing': 'billing.md'
