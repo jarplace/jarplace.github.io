@@ -4,3 +4,5 @@ pages:
     - 'Sign Up': 'signup.md'
     - 'Log In': 'login.md'
     - 'Billing': 'billing.md'
+    - 'Repositories': 'repositories.md'
+    - 'Users': 'users.md'
