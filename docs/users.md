@@ -12,7 +12,7 @@ To create new user execute `jarplace repo create USER_NAME`. Don't forget to add
 
 # jarplace user modify
 
-For and existing user you can modify password and readonly status. Use `jarplace repo modify USER_NAME --repo REPOSITORY_NAME` with `--password PASSWORD` and/or `--readonly` to alter those options.
+For an existing user you can modify password and readonly status. Use `jarplace repo modify USER_NAME --repo REPOSITORY_NAME` with `--password PASSWORD` and/or `--readonly` to alter those options.
 
 # jarplace user delete
 
