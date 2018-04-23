@@ -16,4 +16,4 @@ Currently it's possible to modify only one parameter of the repository: whether 
 
 # jarplace repo delete
 
-Deletes the repository after confirmation. Note, that this operation can not ber reverted!
+Deletes the repository after confirmation. Note, that this operation can not be reverted!
