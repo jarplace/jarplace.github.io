@@ -8,7 +8,7 @@ Use `jarplace repo list` for displaying all your Maven repositories.
 
 # jarplace repo create
 
-To create new repository execute `jarplace repo create REPOSITORY_NAME`. Optionally add specify `--private` to this command if you are about to create private repository. Private repo means that basic auth will be required not only for pushing artifacts, but also for pulling (read protection).
+To create new repository execute `jarplace repo create REPOSITORY_NAME`. Optionally add `--private` to this command if you are about to create private repository. Private repository means that basic authentication will be required not only for pushing artifacts, but also for pulling (read protection).
 
 # jarplace repo modify
 
