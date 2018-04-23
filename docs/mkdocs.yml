@@ -1,0 +1,5 @@
+site_name: JarPlace
+pages:
+    - Home: index.md
+    - Sign up: signup.md
+theme: readthedocs
