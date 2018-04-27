@@ -8,11 +8,11 @@ Use `jarplace user list --repo REPOSITORY_NAME` for displaying all users of spec
 
 # jarplace user create
 
-To create new user execute `jarplace repo create USER_NAME`. Don't forget to add mandatory parameters to this command: `--repo REPOSITORY_NAME` and `--password PASSWORD`. Optionally you can add `--readonly` parameter that will tell JarPlace if this user should be readonly or not.
+To create new user execute `jarplace user create USER_NAME`. Don't forget to add mandatory parameters to this command: `--repo REPOSITORY_NAME` and `--password PASSWORD`. Optionally you can add `--readonly` parameter that will tell JarPlace if this user should be readonly or not.
 
 # jarplace user modify
 
-For an existing user you can modify password and readonly status. Use `jarplace repo modify USER_NAME --repo REPOSITORY_NAME` with `--password PASSWORD` and/or `--readonly` to alter those options.
+For an existing user you can modify password and readonly status. Use `jarplace user modify USER_NAME --repo REPOSITORY_NAME` with `--password PASSWORD` and/or `--readonly` to alter those options.
 
 # jarplace user delete
 
